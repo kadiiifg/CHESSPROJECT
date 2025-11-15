@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class PieceColor {
+public enum PieceColor {
+    BLACK, WHITE;
 }
